@@ -3,3 +3,10 @@ h1 {
     margin-left: 40%;
     font-size: 7ch;
 }
+
+img {
+    background-image: url(house.webp);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
